@@ -4,14 +4,14 @@ For the new OpeSimulator 0.9.2.0 DEV
 DTL/NSL Money Server by Fumi.Iseki and NSL http://www.nsl.tuis.ac.jp , here is my test revision.
 
     This is currently being tested with:
-    opensim-0.9.2.0 Dev - 1172 target vs2019 mono 6.12.x
+    opensim-0.9.2.0 Dev - 1174 target vs2019 mono 6.12.x
     Status works.
     Test Grid: http://openmanniland.de:8002/
     Viewer link: secondlife://http|!!openmanniland.de|8002+Welcome
     
 ## Test OpenSimulator binary include MoneyServer and 243 ossl script example 
 ### Download: 
-binary testfiles Ubuntu 18 + Scripts + Money + landtool:  https://www.mediafire.com/file/dnyf0ur5hxufcwa/opensim-0.9.2.1172.zip/file
+binary testfiles Ubuntu 18 + Scripts + Money + landtool:  https://www.mediafire.com/file/crcts3lzxcdzo4d/opensim-0.9.2.1174.zip/file
  
 ## copy:
 
