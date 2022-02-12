@@ -1,3 +1,6 @@
+So this guy did amazing work I'm going to do the php file and then put it here.
+
+
 # OpenSimCurrencyServer 2021 - 911
 For the new OpeSimulator 0.9.2.1 DEV
 
